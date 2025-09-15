@@ -8,7 +8,7 @@
 ## Development Environment
 
 ### Hardware
-- **GPU**: NVIDIA GeForce RTX 4050 6GB
+- **GPU**: NVIDIA GeForce RTX 4050 Laptop GPU 6GB
 - **CUDA Support**: Available (1 device)
 
 ### Software Stack
